@@ -2,7 +2,7 @@
 #define ZYGISK_IMGUI_MODMENU_GAME_H
 
 // TODO: change this
-#define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.game.packagename"
+#define TargetLibName "libsmashhit.so"
+#define GamePackageName "com.mediocre.smashhit"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
